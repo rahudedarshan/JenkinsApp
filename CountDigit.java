@@ -1,5 +1,3 @@
-package ;
-
 public class CountDigit {
 
 	public static void main(String[] args) {
@@ -22,4 +20,5 @@ public class CountDigit {
 	      System.out.println("Count Of Digit is "+count + " : "+cnt);
 	}
 }
+
 
