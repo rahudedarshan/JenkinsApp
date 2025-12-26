@@ -1,4 +1,4 @@
-package com.sp1.app;
+package ;
 
 public class CountDigit {
 
@@ -22,3 +22,4 @@ public class CountDigit {
 	      System.out.println("Count Of Digit is "+count + " : "+cnt);
 	}
 }
+
